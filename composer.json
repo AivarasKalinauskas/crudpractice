@@ -1,0 +1,15 @@
+{
+    "name": "contacts list",
+    "description": "contacts list",
+    "type": "library",
+    "authors": [
+        {
+            "name": "aivaras",
+            "email": "aivaraskalinauskas@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php-database-migration/php-database-migration": "^3.8"
+    }
+}
